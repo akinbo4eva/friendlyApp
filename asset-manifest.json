@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/friendlyApp/static/js/main.d48a214b.js",
+    "index.html": "/friendlyApp/index.html",
+    "main.d48a214b.js.map": "/friendlyApp/static/js/main.d48a214b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d48a214b.js"
+  ]
+}
